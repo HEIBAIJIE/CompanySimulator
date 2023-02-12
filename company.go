@@ -1,5 +1,6 @@
 package main
 
 type Company struct {
-	name string
+	Orgnization
+	departments []Department
 }
